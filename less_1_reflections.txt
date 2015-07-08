@@ -1,0 +1,11 @@
+Viewing the diffs between two versions of a file made it easier to identify the exact locations where differences were found. This will come in handy especially when files span hundreds or thousands of lines.
+
+Having access to the entire history of a file makes it easier to see how a file was built up and helps you understand the process behind building a program.
+
+Good part of manually saving changes with Git is that you can save logically different versions of a file to easily track how it changed. On the other hand, you might forget to save and lose your changes.
+
+You're more likely to have multiple related files while coding than working on a Google Doc
+
+git log shows the history of changes in a repository. From the repository, you can use git diff to view the specific differences between two versions of a project
+
+With the knowledge that I can return to any previous version at any time, I can be more adventurous while experimenting with code
