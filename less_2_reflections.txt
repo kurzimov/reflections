@@ -1,0 +1,1 @@
+When a repository is initialized, the .git folder is created. This is the first step in tracking changes with Git.
