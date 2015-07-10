@@ -1,1 +1,11 @@
 When a repository is initialized, the .git folder is created. This is the first step in tracking changes with Git.
+
+The staging area is the intermediate layer between the working directory and the repository. It allows you to be selective with which files are committed.
+
+I used the staging area to add only one logical change by only adding back the bullet delay.
+
+Branches are useful to test new features etc. without changing the main codebase
+
+Diagramming helps me understand which commits are reachable and which commits exist on which branch.
+
+Merging two branches together compares them to a prior "master" and incorporates all the changes made in both branches. 
